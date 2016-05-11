@@ -1,6 +1,6 @@
 # Accelerometry-sensor-collection 
 Records accelerometry data in a CSV file for information extraction with auto file upload capabilities.
-
+Available in the play store at https://play.google.com/store/apps/details?id=com.ubi.jason.sensorstest
 Developed for my Master's Thesis: "A Mobile Application to Improve the Quality of Life via Exercise and Rehabilitation".
 
 **Accelerometry collection**
