@@ -3,7 +3,7 @@ Records accelerometry data in a CSV file for information extraction with auto fi
 
 Available in the play store at https://play.google.com/store/apps/details?id=com.ubi.jason.sensorstest
 
-Developed for my Master's Thesis: "A Mobile Application to Improve the Quality of Life via Exercise and Rehabilitation".
+Developed for my Master's Thesis: "Towards an Integrated Solution to Physical Assessment of Students".
 
 **Accelerometry collection**
 
